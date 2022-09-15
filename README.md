@@ -1,3 +1,3 @@
-# Learning - Languages
+# Learning
 
-Learning different programming languages.
+Learning new programming languages and CS + Software concepts.
